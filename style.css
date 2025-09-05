@@ -1,0 +1,33 @@
+body{
+    background-color: grey;
+    padding :0px;
+    margin :0;
+}
+
+h1{
+    margin: 0;
+    width: 70%;
+    height: 50px;
+    background-color:blueviolet;
+    text-align: center;
+   
+}
+
+#divarea{
+    align-items: center;
+}
+
+#textbox{
+    width: 70%;
+    border-width: 3px;
+    border-color: blueviolet;
+}
+
+#para1{
+    margin: 0;
+    width: 70%;
+    height: 50p;
+    text-align: center;
+    font-family: Calibri;
+    background-color: blueviolet;
+}
